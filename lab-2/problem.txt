@@ -1,0 +1,7 @@
+Lab Report: 02
+Question:
+Write a Java program to demonstrate polymorphism using inheritance and method overriding. 
+Create a superclass "Employee" with a method "calculateSalary()". 
+Create two subclasses, "FullTimeEmployee" and "PartTimeEmployee",
+and override the "calculateSalary()" method in each subclass according to their salary calculation.
+Use an "Employee" reference to call the overridden methods and display the salaries of both employees.
