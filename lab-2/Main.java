@@ -41,10 +41,10 @@ public class Main {
 
         Employee employee;
 
-        employee = new FullTimeEmployee(50000);
+        employee = new FullTimeEmployee(125000);
         employee.calculateSalary();
 
-        employee = new PartTimeEmployee(30000);
+        employee = new PartTimeEmployee(100000);
         employee.calculateSalary();
     }
 }
